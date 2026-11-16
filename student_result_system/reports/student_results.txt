@@ -1,0 +1,32 @@
+STUDENT RESULT REPORT
+============================================================
+Generated: 2026-11-16 16:16:08
+
+ID: ST001
+Name: Egerue Nnenna Winifred
+Class: SS3
+Total: 402.00/500
+Average: 80.40%
+Grade: A
+------------------------------------------------------------
+ID: ST002
+Name: Kogo Demilade Charles
+Class: SS3
+Total: 402.00/500
+Average: 80.40%
+Grade: A
+------------------------------------------------------------
+ID: ST003
+Name: Ozioma Stanley-Duru Esther
+Class: SS3
+Total: 399.00/500
+Average: 79.80%
+Grade: A
+------------------------------------------------------------
+ID: ST004
+Name: Tejiri Goodness
+Class: SS3
+Total: 426.00/500
+Average: 85.20%
+Grade: A
+------------------------------------------------------------

@@ -1,0 +1,11 @@
+[
+    {
+        "student_id": "ST001",
+        "full_name": "Yusuf Abubakar",
+        "student_class": "SS3",
+        "gender": "Male",
+        "dob": "2005-06-15",
+        "scores": {},
+        "result_date": null
+    }
+]
